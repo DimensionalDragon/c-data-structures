@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 15,
+    "window.zoomLevel": 0.5,
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.panel.defaultLocation": "right",
+    "files.associations": {
+        "ostream": "cpp",
+        "utility": "cpp",
+        "vector": "cpp"
+    },
+}
